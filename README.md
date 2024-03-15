@@ -1,11 +1,10 @@
 # AdaBatAL
-AISTATS 2024, "Adaptive Batch Sizes for Active Learning: A Probabilistic Numerics Approach"
-Arxiv link: [https://arxiv.org/abs/2306.05843](https://arxiv.org/abs/2306.05843)
+AISTATS 2024, "Adaptive Batch Sizes for Active Learning: A Probabilistic Numerics Approach"<br>
+Arxiv link: [https://arxiv.org/abs/2306.05843](https://arxiv.org/abs/2306.05843) <br>
 This repository will be merged into the following repo:<br>
 [https://github.com/ma921/SOBER](https://github.com/ma921/SOBER)
 
 ## Cite as
-
 Please cite this work as
 ```
 @inproceedings{Adachi2023AdaptiveBS,
