@@ -1,6 +1,9 @@
 # AdaBatAL
 AISTATS 2024, "Adaptive Batch Sizes for Active Learning: A Probabilistic Numerics Approach"<br>
 paper link: [https://proceedings.mlr.press/v238/adachi24b](https://proceedings.mlr.press/v238/adachi24b) <br>
+
+Current code is demonstration-purpose, which only supports unconstrained active learning.
+
 This repository will be merged into the following repo:<br>
 [https://github.com/ma921/SOBER](https://github.com/ma921/SOBER)
 
